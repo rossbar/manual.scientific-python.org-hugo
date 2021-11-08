@@ -1,27 +1,29 @@
 baseURL: "https://theme.scientific-python.org/"
 languageCode: "en-us"
-title: "Scientific Python Hugo Theme documentation"
+title: "Scientific Python Manual"
 theme: scientific-python-hugo-theme
 relativeURLs: true
 disableKinds: ["term", "taxonomy"]
 
 params:
-  description: "Documentation & template site for the Scientific Python Hugo Theme."
+  description: "How-to's and best practices for scientific Python projects."
   images:
   - /images/logo.svg
   navbarlogo:
     image: logo.svg
-    text: Scientific Python Hugo Theme
+    text: Scientific Python manual
     link: /
   hero:
-    title: Hugo Theme
-    subtitle: Used by core projects in the scientific Python ecosystem.
-    buttontext: Go to docs
+    title: Scientific Python Manual
+    subtitle: How-tos and best practices for the scientific Python ecosystem
+    buttontext: Learn more
     buttonlink: /getstarted/
     image: logo.svg
+# TODO: activate me
   navbar:
     - title: GitHub
       url: https://github.com/scientific-python/scientific-python-hugo-theme
+# TODO: activate me
   keyfeatures:
     features:
       - title: Documented
@@ -30,6 +32,7 @@ params:
         text: The theme is being used by NumPy, SciPy, ...
       - title: Community Maintained
         text: The theme is maintained by the [Theme Team](https://github.com/orgs/scientific-python/teams/theme-team)
+# TODO: activate me
   footer:
     logo: logo.svg
     socialmediatitle: ""
