@@ -4,17 +4,10 @@ Accessibility is an important consideration for any open-source software
 project.
 Please see [this discussion][accessibility_discuss] for further
 background information on accessibility.
-
-[accessibility_discuss]: https://discuss.scientific-python.org/t/discussion-accessible-open-source-projects/63
-
 This article details some best practices that can be adopted by ecosystem
 projects to improve accessibility.
 
-## Documentation
-
-The documentation for a project is the primary way that most users interface
-with a project.
-As such, ensuring the documentation is accessible is of utmost importance.
+[accessibility_discuss]: https://discuss.scientific-python.org/t/discussion-accessible-open-source-projects/63
 
 ### Accessible documentation themes
 
