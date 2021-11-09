@@ -25,3 +25,12 @@ For example, the [pydata-sphinx-theme][pydata-sphinx-theme] integrates
 [sphinx-themes]: https://www.sphinx-doc.org/en/master/usage/theming.html
 [pydata-sphinx-theme]: https://pydata-sphinx-theme.readthedocs.io/en/latest/
 [accessibility-checks]: https://pydata-sphinx-theme.readthedocs.io/en/latest/contributing.html#accessibility-checks
+
+### Alt-text for images in documentation
+
+Including accurate, descriptive alt-text with html images is important for
+users who rely on screen-readers or related technology.
+General best-practices include:
+- Ensure all images in the project documentation include alt-text
+- Validate that alt-text accurately describes the image and integrates well
+  with any surrounding text (e.g. avoid forward-references).
