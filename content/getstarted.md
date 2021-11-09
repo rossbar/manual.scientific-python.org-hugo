@@ -11,4 +11,4 @@ ecosystem.
 It is intended as a resource for both users and contributors to ecosystem
 projects.
 
-- [Contributors]({{< relref "contributors/index" >}})
+- [Contributors]({{< relref "contributors" >}})
