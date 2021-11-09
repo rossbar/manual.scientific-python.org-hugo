@@ -5,4 +5,4 @@ wish to start contributing to, open source projects.
 
 ## Documentation
 
-- [Accessibility]({{< relref "hello_world.md" >}})
+- [Accessibility]({{< relref "accessibility_howto.md" >}})
