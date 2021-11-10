@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scientific Python Manual</title>
+    <link>https://theme.scientific-python.org/contributors/</link>
+    <description>Recent content on Scientific Python Manual</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://theme.scientific-python.org/contributors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://theme.scientific-python.org/contributors/accessibility_howto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://theme.scientific-python.org/contributors/accessibility_howto/</guid>
+      <description>How-to: Accessibility for open-source software projects Accessibility is an important consideration for any open-source software project. Please see this discussion for further background information on accessibility. This article details some best practices that can be adopted by ecosystem projects to improve accessibility.
+Accessible documentation themes Projects in the scientific Python ecosystem typically use sphinx to generate reference and narrative documentation for projects. Sphinx includes the ability to set a consistent theme for the generated html, which control various aspects including page layout, color scheme, and keyboard navigation support.</description>
+    </item>
+    
+  </channel>
+</rss>

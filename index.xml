@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scientific Python Manual</title>
+    <link>https://theme.scientific-python.org/</link>
+    <description>Recent content on Scientific Python Manual</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://theme.scientific-python.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scientific Python Hugo theme released!</title>
+      <link>https://theme.scientific-python.org/news/new-theme/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://theme.scientific-python.org/news/new-theme/</guid>
+      <description>Based on the theme developed for numpy.org.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://theme.scientific-python.org/contributors/accessibility_howto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://theme.scientific-python.org/contributors/accessibility_howto/</guid>
+      <description>How-to: Accessibility for open-source software projects Accessibility is an important consideration for any open-source software project. Please see this discussion for further background information on accessibility. This article details some best practices that can be adopted by ecosystem projects to improve accessibility.
+Accessible documentation themes Projects in the scientific Python ecosystem typically use sphinx to generate reference and narrative documentation for projects. Sphinx includes the ability to set a consistent theme for the generated html, which control various aspects including page layout, color scheme, and keyboard navigation support.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://theme.scientific-python.org/example-markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://theme.scientific-python.org/example-markdown/</guid>
+      <description>This is some example markdown with bold!</description>
+    </item>
+    
+    <item>
+      <title>Get Help</title>
+      <link>https://theme.scientific-python.org/gethelp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://theme.scientific-python.org/gethelp/</guid>
+      <description>Please see our issue tracker.</description>
+    </item>
+    
+    <item>
+      <title>Get Started</title>
+      <link>https://theme.scientific-python.org/getstarted/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://theme.scientific-python.org/getstarted/</guid>
+      <description>Scientific Python manual This site contains a collection of how-to&amp;rsquo;s and best-practices pertaining to the development and community-building of projects in the scientific Python ecosystem. It is intended as a resource for both users and contributors to ecosystem projects.
+ Contributors  </description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>https://theme.scientific-python.org/shortcodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://theme.scientific-python.org/shortcodes/</guid>
+      <description>Please run tools/render_shortcode_docs.py to generate this file.</description>
+    </item>
+    
+  </channel>
+</rss>
