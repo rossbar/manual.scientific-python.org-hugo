@@ -26,12 +26,13 @@ params:
 # TODO: activate me
   keyfeatures:
     features:
-      - title: Documented
-        text: The theme is documented at https://theme.scientific-python.org.
-      - title: Reusable
-        text: The theme is being used by NumPy, SciPy, ...
-      - title: Community Maintained
-        text: The theme is maintained by the [Theme Team](https://github.com/orgs/scientific-python/teams/theme-team)
+      - title: For users
+        text: Make the most of the scientific Python ecosystem
+      - title: For contributors
+        text: How-tos and best-practices for contributing to the ecosystem
+        link: contributors
+      - title: Community
+        text: Building, coordinating, and sustaining healthy communities
 # TODO: activate me
   footer:
     logo: logo.svg
